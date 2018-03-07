@@ -1,0 +1,50 @@
+body{
+    font-family: 'Coiny', cursive;
+    text-shadow: 5px 5px 10px black;
+    color:  white;
+    background: rebeccapurple;
+    background: url(https://scontent.fbog2-1.fna.fbcdn.net/v/t1.0-9/156684_4263468783666_1713912545_n.jpg?oh=3f9f23de613da77746d8fb5e4f5a3e07&oe=5B43F33E);
+    background-size: cover;
+}
+
+img {
+
+width: 100px;
+border-radius: 50%;
+}
+
+
+
+
+#girar:hover {
+  transform: rotate(720deg);
+}
+
+
+
+
+/*
+  h1{
+
+
+
+
+  }
+  .//scontent.fbog2-1.fna.fbcdn.net/v/t1.0-9/156684_4263468783666_1713912545_n.jpg?oh=3f9f23de613da77746d8fb5e4f5a3e07&oe=5B43F33E
+
+  {
+width: 200px;
+
+
+  }
+
+    }
+    .yo {
+        width: 200px;
+        height: 200px;
+        box-shadow: 20px 20px 50px rgb(22, 2, 2);
+    }
+    
+    #girar:hoveyo {
+      transform: rotate(720deg);
+    }
